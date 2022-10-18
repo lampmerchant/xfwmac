@@ -1,0 +1,31 @@
+/* XPM */
+static char *noname[] = {
+/* width height ncolors chars_per_pixel */
+"20 20 4 1",
+/* colors */
+"  c White",
+". c #888888",
+"X c Black",
+"o c None",
+/* pixels */
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  ..ooooooooooooooo",
+"X  .................",
+"X  .................",
+"X                   ",
+"X                   ",
+"XXXXXXXXXXXXXXXXXXXX"
+};
