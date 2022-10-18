@@ -4,7 +4,7 @@ Classic Mac OS window borders for xfwm4.
 
 ## Installation
 
-Copy theme folders into ~/.local/share/themes (per-user) or /usr/local/share/themes (system-wide).
+Copy theme folders into `~/.local/share/themes` (per-user) or `/usr/local/share/themes` (system-wide).
 
 ## Variants
 
